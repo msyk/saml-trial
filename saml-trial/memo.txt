@@ -1,0 +1,6 @@
+IM Path
+/var/www/demo_im_com/saml-trial/lib/src/INTER-Mediator
+
+SAML Web Root
+/var/www/demo_im_com/saml-trial/lib/src/INTER-Mediator/vendor/simplesamlphp/simplesamlphp/www
+https://demo.inter-mediator.com/saml-trial/lib/src/INTER-Mediator/vendor/simplesamlphp/simplesamlphp/www
